@@ -16,4 +16,4 @@ Tunggu hingga install berhasil
 - Buka IDLE Python
 - Open project dengan nama file 'Assignment5 - watershed algorithm (Nilatil Moena)'
 - Kemudian 'Run Module', tunggu hingga run selesai
-- Hasil run akan menampilkan image hasil proses edge detection
+- Hasil run akan menampilkan image hasil proses edge detection (dengan nama file 'Figure_1' yang sebelumnya adalah image dengan nama file 'dolphin')
